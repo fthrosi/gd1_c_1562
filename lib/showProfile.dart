@@ -20,7 +20,7 @@ class ShowProfile extends StatelessWidget{
                     kSizedBox2,
                     CircleAvatar(
                       radius: 50,
-                      backgroundImage: AssetImage('images/download.jpg')),
+                      backgroundImage: AssetImage('images/download.jpeg')),
                     kSizedBox2,
                     Container(
                       child: Column(

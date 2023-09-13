@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
             },
             child: const CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage('images/download.jpg'),
+              backgroundImage: AssetImage('images/download.jpeg'),
             ),
             ),
             const Text(
